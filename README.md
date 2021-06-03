@@ -1,3 +1,6 @@
+# IMDb_AutomatedWatchlist-Scrapper
+This is a project I made as a part of my submission in a hackathon organised by Pepcoding. It basically used puppeteer libraries to log in to IMDb,scraps some data from the List Of Best Picture Winners since the Oscars Started, and also adds them to the watchlist in our IMDb account.
+
 
 
 Package Installation:
